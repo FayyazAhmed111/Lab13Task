@@ -38,6 +38,7 @@ public class Output extends JFrame {
                 try {
                     Output frame = new Output();
                     frame.setVisible(true);
+                    System.Out.Println("CHANGES FOR MODULE 4 LAB");
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
